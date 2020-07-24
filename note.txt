@@ -1,0 +1,34 @@
+Untuk step mocking, Anda diharapkan membuat sebuah desain berupa layout 
+dan page-page yang Anda akan tambahkan ke website yang Anda akan buat. 
+Disini Anda bebas untuk menentukan layout, namun untuk layout ada standar 
+sendiri yang Anda bisa jadikan acuan, meskipun kembali lagi, Anda bebas 
+untuk menentukannya.
+
+Standarnya suatu website memiliki layout berupa header, body, dan footer.
+
+Header
+
+Header biasanya mengandung logo suatu website dan juga menu-menu utama 
+yang akan navigasikan user ke page terkait. Header juga bisa mengandung 
+beberapa hal yang memang dibutuhkan seperti search, filter, dan lain-lain.
+
+Body
+
+Body mengandung content utama sesuai page yang user saat itu sedang akses. 
+Page harus sesuai dengan routing yang Anda konfigurasikan di website Anda.
+
+Footer
+
+Footer mengandung nama brand atau logo dan juga deskripsi singkat dari 
+website Anda. Dan footer juga mengandung daftar icon sosial media dan 
+juga link text untuk page-page supporting seperti Tentang Kami, FAQ, 
+dan lain-lain.
+
+Output
+
+Output dari mocking ini hanya berupa desain website yang Anda ingin buat. 
+Desain tidak perlu Anda submit kemanapun, hanya jadikan desain tersebut 
+acuan Anda untuk membuat website Anda.
+
+Namun, Anda boleh bereskan final project hari ini jika dirasa Anda sudah 
+memahami proses pola berpikir React yaitu mocking, static version, dan interactive version.
